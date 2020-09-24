@@ -77,6 +77,10 @@
     background: var(--color-secundary-dark);
 }
 
+.teacher-item a {
+    text-decoration: none;
+}
+
 @media (min-width: 740px){
    
     
